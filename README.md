@@ -8,7 +8,8 @@ It includes visualizations of top adjectives, ROC curves, and confusion matrices
 ## Open in Google Colab
 Click below to run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Veronicacarr22/fake-news-classifier/blob/main/notebooks/FakeNewsClassifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Veronicacarr22/fake-news-classifier/blob/main/Fake_News_Classifier_Carr2025.ipynb)
 
 ---
 
