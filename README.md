@@ -83,4 +83,11 @@ If you’re running in Colab with Google Drive, the notebook can also fall back 
 - pandas, numpy  
 - scikit-learn  
 - nltk  
-- matplotlib, seaborn  
+- matplotlib, seaborn
+
+---
+
+### Visuals
+![Confusion Matrix - Naive Bayes](reports/figures/confusion_nb.png)
+![Confusion Matrix - Logistic Regression](reports/figures/confusion_lr.png)
+![ROC Curve](reports/figures/roc_curve.png)
